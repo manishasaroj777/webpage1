@@ -26,7 +26,7 @@ body
 	height:1010px;
 	//border:1px solid red;
 	margin: 0px auto;
-	background:linear-gradient(rgba(76,75,70,0.7) ,rgba(21,23,30,0.7)),url("../images/background/bg1.png") no-repeat;
+	background:linear-gradient(rgba(76,75,70,0.7) ,rgba(21,23,30,0.7)),url("bg1.png") no-repeat;
 	background-size:100% 100%;	
 }
 
@@ -66,7 +66,7 @@ margin-left: 11px;
     width:70px;
 	height:66px;
 	//border:1px solid red;
-	background:url("../images/illustration/logo.png") no-repeat;
+	background:url("logo.png") no-repeat;
 	background-size:100% 100%;	
 
 }
@@ -76,7 +76,7 @@ margin-left: 11px;
     width: 119px;
 	height:33px;
 	//border:1px solid red;
-	background:url("../images/illustration/W.png") no-repeat;
+	background:url("W.png") no-repeat;
 	background-size:100% 100%;	
 	transform: translate(69px ,-45px);
 
@@ -308,7 +308,7 @@ transform: translate(476px,-152px);
 	width: 389px;
    height: 362px;
    //border: 1px solid red;
-background: url("../images/illustration/bl.png") no-repeat;
+background: url("bl.png") no-repeat;
     background-size: auto;
 background-size: 100% 100%;
 transform: translate(95px,105px);
@@ -323,7 +323,7 @@ z-index: 1;
 	width: 639px;
   height: 458px;
 //border: 1px solid red;
-background: url("../images/illustration/bc.png") no-repeat;
+background: url("ill.png") no-repeat;
     background-size: auto;
 background-size: 100% 100%;
 position: absolute;
@@ -337,7 +337,7 @@ transform: translate(250px,10px);
 	width: 354px;
 	height: 364px;
 	//border: 1px solid red;
-	background: url("../images/illustration/br.png") no-repeat;
+	background: url("br.png") no-repeat;
    background-size: 100% 100%;
 transform: translate(669px,104px);
 position: absolute;
@@ -466,7 +466,7 @@ color:white;
 
  #section4 .s4img .s4box .s4m1
  {
-   background: url("../images/illustration/lp1.png") no-repeat;
+   background: url("lp1.png") no-repeat;
    background-size: 100% 100%;
 
  }
@@ -474,35 +474,35 @@ color:white;
 
  #section4 .s4img .s4box .s4m2
  {
-   background: url("../images/illustration/lp2.png") no-repeat;
+   background: url("lp2.png") no-repeat;
    background-size: 100% 100%;
 
  }
 
  #section4 .s4img .s4box .s4m3
  {
-   background: url("../images/illustration/lp3.png") no-repeat;
+   background: url("lp3.png") no-repeat;
    background-size: 100% 100%;
 
  }
 
  #section4 .s4img .s4box .s4m4
  {
-   background: url("../images/illustration/lp4.png") no-repeat;
+   background: url("lp4.png") no-repeat;
    background-size: 100% 100%;
 
  }
 
  #section4 .s4img .s4box .s4m5
  {
-   background: url("../images/illustration/lp5.png") no-repeat;
+   background: url("lp5.png") no-repeat;
    background-size: 100% 100%;
 
  }
 
  #section4 .s4img .s4box .s4m6
  {
-   background: url("../images/illustration/lp6.png") no-repeat;
+   background: url("lp6.png") no-repeat;
    background-size: 100% 100%;
 
  }
@@ -533,7 +533,7 @@ color:white;
    	height:708px;
 	//border:1px solid red;	
 	text-align: center;
-	background: url("../images/background/videobg.png") no-repeat;
+	background: url("videobg.png") no-repeat;
     background-size: 100% 100%;
     color:white;
 }
@@ -592,7 +592,7 @@ color:#8c8c8c;
     width: 25%;
 height: 477px;
 //border: 1px solid red;
-background: url("../images/illustration/iphonehand.png") no-repeat;
+background: url("iphonehand.png") no-repeat;
 background-size: 100% 100%;
 transform: translate(108px,75px);
 
@@ -737,19 +737,19 @@ margin: 0px 7px 0px 1px;
 
 #section8  .s8boxes .s6im1
 {
- background: url("../images/illustration/rp1.png") no-repeat;
+ background: url("rp1.png") no-repeat;
 background-size: 100% 100%;
 }
 #section8  .s8boxes .s6im2
 {
- background: url("../images/illustration/rp2.png") no-repeat;
+ background: url("rp2.png") no-repeat;
 background-size: 100% 100%;
 }
 
 
 #section8  .s8boxes .s6im3
 {
- background: url("../images/illustration/rp3.png") no-repeat;
+ background: url("rp3.png") no-repeat;
 background-size: 100% 100%;
 }
 
@@ -811,7 +811,7 @@ transform: translate(473px,64px);
 	width:100%;
 	height:484px;
 	//border: 1px solid red;
-	background: linear-gradient(rgba(36,29,26,0.4),rgba(36,29,26,0.7)),url("../images/background/partner-bg.png") no-repeat;
+	background: linear-gradient(rgba(36,29,26,0.4),rgba(36,29,26,0.7)),url("partner-bg.png") no-repeat;
 	background-size: 100% 100%;
 }
 
@@ -835,7 +835,7 @@ transform: translate(473px,64px);
 #section9 #s9Llogo  .s9l1
 {
 
-	 background: url("../images/illustration/partner-1.png") no-repeat;
+	 background: url("partner-1.png") no-repeat;
 background-size: 100% 100%;
 }
 
@@ -843,7 +843,7 @@ background-size: 100% 100%;
 #section9 #s9Llogo  .s9l2
 {
 
-	 background: url("../images/illustration/partner-2.png") no-repeat;
+	 background: url("partner-2.png") no-repeat;
 background-size: 100% 100%;
 }
 
@@ -851,7 +851,7 @@ background-size: 100% 100%;
 #section9 #s9Llogo  .s9l3
 {
 
-	 background: url("../images/illustration/partner-3.png") no-repeat;
+	 background: url("partner-3.png") no-repeat;
 background-size: 100% 100%;
 }
 
@@ -859,7 +859,7 @@ background-size: 100% 100%;
 #section9 #s9Llogo  .s9l4
 {
 
-	 background: url("../images/illustration/partner-4.png") no-repeat;
+	 background: url("partner-4.png") no-repeat;
 background-size: 100% 100%;
 }
 
@@ -907,7 +907,7 @@ margin: 0px 15px 0px 4px;
     width:40%;
 	height:60px;
 	//border:1px solid red;
-	background:url("../images/illustration/logo.png") no-repeat;
+	background:url("logo.png") no-repeat;
 	background-size:100% 100%;	
 
 }
@@ -918,7 +918,7 @@ margin: 0px 15px 0px 4px;
      width:50%;
 	height:40px;
 	//border:1px solid red;
-	background:url("../images/illustration/W.png") no-repeat;
+	background:url("W.png") no-repeat;
 	background-size:100% 100%;	
 	transform: translate(79px ,-45px);
 
@@ -1030,7 +1030,7 @@ margin: 0px 15px 0px 4px;
 
 #footer #ftblock .ft1 #compic .ftcm1
 {
-background:url("../images/illustration/dw1.png") no-repeat;
+background:url("dw1.png") no-repeat;
 	background-size:100% 100%;	
 
 }
@@ -1038,7 +1038,7 @@ background:url("../images/illustration/dw1.png") no-repeat;
 
 #footer #ftblock .ft1 #compic .ftcm2
 {
-background:url("../images/illustration/dw2.png") no-repeat;
+background:url("dw2.png") no-repeat;
 	background-size:100% 100%;	
 	
 }
@@ -1046,7 +1046,7 @@ background:url("../images/illustration/dw2.png") no-repeat;
 
 #footer #ftblock .ft1 #compic .ftcm3
 {
-background:url("../images/illustration/dw3.png") no-repeat;
+background:url("dw3.png") no-repeat;
 	background-size:100% 100%;	
 	
 }
@@ -1054,7 +1054,7 @@ background:url("../images/illustration/dw3.png") no-repeat;
 
 #footer #ftblock .ft1 #compic .ftcm4
 {
-background:url("../images/illustration/dw4.png") no-repeat;
+background:url("dw4.png") no-repeat;
 	background-size:100% 100%;	
 	
 }
